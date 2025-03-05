@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<HTML lang="en">
+<head>
+  <meta charset="UTF-8"
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>BJ Supernault</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+  <body>
+  <header>
+     <nav id="navbar">
+       <ul>
+         <li><a href="#About" class="nav-link">About</a></li>
+         <li><a href="#Projects" class="nav-link">Projects</a></li>
+        <li><a href="#Connect" class="nav-link">Connect</a></li>
+       </ul>
+      </nav>
+    </header>
+  <main>
+    <section id="welcome-section">
+      <h1>Brittany Supernault</h1>
+      <h3>Freelance Web Designer</h3>
+      <div id="heart-container">
+        <div class="heart top one"></div>
+        <div class="heart top two"></div>
+        <div class="heart bottom"></div>
+      </div>
+    </section>
+    <section id="projects">
+      <div class="project-tile"></div>
+      <a href="profile-link.html" id="profile-link" target="_blank">See more projects here</a>
+    </section>
+  </main>
+</body>
+</html>
